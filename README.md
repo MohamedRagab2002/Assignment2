@@ -1,2 +1,2 @@
-Write a program that take number from user then print yes if that 
-number can divide by 3 and 4 otherwise print no
+- Write a program that allows the user to insert an integer then
+  print negative if it is a negative number otherwise print positive
