@@ -1,7 +1,8 @@
+package com.company.one;
 
 import java.util.Scanner;
 
-public class Answer1 {
+public class TheAnswer {
     public static void main(String[] args) {
         int number;
         System.out.println("Enter The Number");
