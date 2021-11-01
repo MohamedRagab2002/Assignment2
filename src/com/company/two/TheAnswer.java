@@ -1,6 +1,8 @@
+package com.company.two;
+
 import java.util.Scanner;
 
-public class Answer2 {
+public class TheAnswer {
     public static void main(String[] args) {
         int number;
         Scanner scan = new Scanner(System.in);
